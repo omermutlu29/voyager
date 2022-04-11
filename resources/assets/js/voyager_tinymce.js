@@ -8,6 +8,7 @@ import 'tinymce/plugins/code';
 import 'tinymce/plugins/table';
 import 'tinymce/plugins/textcolor';
 import 'tinymce/plugins/lists';
+import 'tinymce/plugins/paste';
 
 $(document).ready(function(){
 
